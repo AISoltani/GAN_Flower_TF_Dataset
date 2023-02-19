@@ -1,6 +1,7 @@
 # GAN_Flower_TF_Dataset
 This project aims to teach GAN model with Python language and Tensorflow library 
 Here we using TF-Flower dataset from:
+
 https://www.tensorflow.org/datasets/catalog/tf_flowers
 
 After downloading data and prepare, we use some preprocess like resize and normalization.

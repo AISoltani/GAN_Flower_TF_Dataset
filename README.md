@@ -15,3 +15,5 @@ Next step is creating the Generator and discriminator, the structure of both was
 
 It is necessary to mention that for faster training, the photos were resized to 64 x 64 pixels, and for this reason, the output estimates are blurred, and in the initial implementation, which took a lot of time, these results are very accurate and was on 680 x 680 pixel. Unfortunately, the first output crashed and was lost and could not be saved, so lower pixels were produce to get the output faster.
 
+You can download weight from  [here.](https://github.com/AISoltani/GAN_Flower_TF_Dataset/tree/main/Weight)
+

@@ -1,4 +1,7 @@
 # GAN_Flower_TF_Dataset
+
+![Gan Flower](https://github.com/AISoltani/GAN_Flower_TF_Dataset/blob/main/gan.png)
+
 This project aims to teach GAN model with Python language and Tensorflow library 
 Here we using TF-Flower dataset from:
 
